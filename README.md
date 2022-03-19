@@ -28,8 +28,8 @@ E-MAIL ADDRESS: brendaandeso4@gmail.com
 
 PHONE:+254743495599
 
-#### License
-Licence under:MIT LICENCE
+#### Licence
+https://choosealicense.com/licenses/mit/
 
 #### Copyright
 Copyright (c) {2022} BRENDA ANDESO
