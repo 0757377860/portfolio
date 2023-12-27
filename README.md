@@ -1,8 +1,8 @@
 ## MY PORTFOLIO
-By Brenda Andeso.
+By; FRANCIS MUTHEE
 
 ## Description
-This is my Portfolio Website where I brieflyt talk about myself, my skills and the projects I have created. 
+This is my Portfolio Website where I briefly talk about myself, my skills and the projects I have created. 
 
 #### Setup/Installation Requirements
 Have a browser(Google Chrome)
@@ -24,12 +24,12 @@ CSS
 #### Support and contact details
 In case of any issues or questions, feel free to contact me using:
 
-E-MAIL ADDRESS: brendaandeso4@gmail.com
+E-MAIL ADDRESS: FRANCISNJARAMBA2@GMAIL.COM
 
-PHONE:+254743495599
+PHONE:+254715326477
 
 #### Licence
 https://choosealicense.com/licenses/mit/
 
 #### Copyright
-Copyright (c) {2022} BRENDA ANDESO
+Copyright (c) {2023} FRANCIS MUTHEE

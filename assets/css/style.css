@@ -95,7 +95,10 @@
   .btn-fill:focus {
       color: #fff;
   }
-  
+  /* ---------initials----- */
+  init{
+    font-weight: 900;
+  }
   .btn:hover,
   .btn:focus {
       box-shadow: 0px 10px 18px 0px rgba(0, 0, 0, 0.15);
